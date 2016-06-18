@@ -1,2 +1,2 @@
 # java-design-patterns
-- [x] Chain of responsability
+- [x] Chain of responsability;
